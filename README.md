@@ -1,7 +1,8 @@
 # powerlifting.compmgmt
 
 > Powerlifting competition management application, originally called Spotter
-> For more information about this [see this blog post](https://liftcodeplay.com/2019/03/28/the-tale-of-the-1000-hour-side-project/)
+
+For more information about this [see this blog post](https://liftcodeplay.com/2019/03/28/the-tale-of-the-1000-hour-side-project/)
 
 ## Build Setup
 
