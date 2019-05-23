@@ -1,4 +1,4 @@
-# powerlifting.compmgmt
+# spotter-powerlifting
 
 > Powerlifting competition management application, originally called Spotter
 
