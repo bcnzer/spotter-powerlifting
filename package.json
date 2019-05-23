@@ -1,0 +1,46 @@
+{
+  "name": "powerlifting.compmgmt",
+  "version": "1.0.0",
+  "description": "Spotter Powerlifting competition management front end",
+  "author": "Spotter Systems",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@mdi/font": "^3.2.89",
+    "@nuxtjs/google-tag-manager": "^2.1.4",
+    "@nuxtjs/pwa": "^3.0.0-beta.12",
+    "@nuxtjs/robots": "^2.0.0",
+    "@nuxtjs/sentry": "^2.3.1",
+    "cross-env": "^5.2.0",
+    "dexie": "^2.0.4",
+    "firebase": "^5.8.5",
+    "firebaseui": "^3.5.2",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "nuxt": "^2.4.5",
+    "uuid": "^3.3.2",
+    "vue-shortkey": "^3.1.6",
+    "vuedraggable": "^2.19.0",
+    "vuetify": "^1.5.7",
+    "vuex-persistedstate": "^2.5.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^5.0.1",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "eslint-plugin-vue": "^4.0.0",
+    "nodemon": "^1.11.0",
+    "prettier": "1.14.3",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
